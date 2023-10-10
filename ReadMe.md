@@ -13,4 +13,5 @@ Forking this repo should give you everything you need to get something basic onl
  - [Getting Started](https://github.com/andrewiankidd/example-html-css-js/blob/main/assets/help/getting-started.md)
 
 ## Screenshot
-![Screencap of project index page displayed in browser](assets/img/screencap.png)
+[https://andrewiankidd.github.io/example-html-soundboard/](https://andrewiankidd.github.io/example-html-soundboard/)
+[![Screencap of project index page displayed in browser](assets/img/screencap.png)](https://andrewiankidd.github.io/example-html-soundboard/)
